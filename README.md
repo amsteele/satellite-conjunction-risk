@@ -51,6 +51,9 @@ Because the detection logic is easier to follow when shown step-by-step, the det
 👉 See: notebooks/methodology_overview.ipynb
 
 ## Results
+![Example encounter frequency](examples/example_48hours_5km_encounters.gif)
+
+
 | Satellite 1   | Satellite 2    |   Min Distance (km) |   # Detections |   Duration (min) | Pair Type         |
 |:---------------|:---------------|------------------:|---------------:|-------------------:|:------------------|
 | STARLINK-34024 | STARLINK-34111 |             0.192 |             27 |            260.000 | Starlink–Starlink |
